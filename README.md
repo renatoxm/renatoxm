@@ -1,4 +1,4 @@
-# Hi 👋 I am Renato Nabinger, Senior Full Stack Software Engineer. I help companies solve complex problems and be more efficient.
+# Hi 👋 I am Renato Nabinger, Senior Full Stack Product Engineer. I turn ideas into apps that customers love
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,7 +33,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-- 🧔🏻 I’m a Senior Full Stack Developer <a href="https://renato.digital" type="_blank">Visit my personal page</a>
+- 🧔🏻 I’m a Senior Full Stack Product Engineer <a href="https://productengineer.online" type="_blank">Visit my personal page</a>
 - 🌱 I’m currently learning more about Microservices, Kubernetes and Nest.js
 - 🎓 I'm a Computer Science Grad with a BBA and an MBA
 - ✨ AI, Blockchain & Full Stack enthusiast
